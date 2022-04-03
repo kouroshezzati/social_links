@@ -23,6 +23,8 @@ const resources = {
       Edit: 'ویرایش',
       twitter: 'تویتر',
       facebook: 'فیسبوک',
+      telegram: 'تلگرام',
+      instagram: 'اینستاگرام',
       cancel: 'انصراف',
     },
   },
